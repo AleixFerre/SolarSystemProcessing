@@ -37,4 +37,4 @@ What I made different here is to create new lighting and a Skybox system that yo
 
 ## Credits
 
-by [Aleix Ferré] (https://github.com/CatalaHD)
+by [Aleix Ferré](https://github.com/CatalaHD)
