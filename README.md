@@ -31,7 +31,14 @@ Install Processing that is a Java based visual environment.
 
 ## Modifications
 
-What I made different here is to create new lighting and a Skybox system that you can change.
+What I made different here is:
+ - Create new lighting
+ - Skybox system that you can change.
+
+I added this .blend file because this is what I used to create all the Background Maps.
+
+[Cube2Sphere](https://github.com/Xyene/cube2sphere) original file
+ - Blender file that allows you to convert CubeMaps to Spherical Map images.
 
 ----------------------
 
