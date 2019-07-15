@@ -22,4 +22,4 @@ Processing 3D Mod of Daniel Shiffman Coding Challenge #7 - #9
 
 ## Modifications
 
-What i made different here is to create new lighting and a Skybox system that you can change.
+What I made different here is to create new lighting and a Skybox system that you can change.
