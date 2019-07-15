@@ -32,3 +32,9 @@ Install Processing that is a Java based visual environment.
 ## Modifications
 
 What I made different here is to create new lighting and a Skybox system that you can change.
+
+----------------------
+
+## Credits
+
+by [Aleix Ferré] (https://github.com/CatalaHD)
