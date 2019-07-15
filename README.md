@@ -35,6 +35,6 @@ What I made different here is to create new lighting and a Skybox system that yo
 
 ----------------------
 
-## Credits
+## Author of the Mod
 
 by [Aleix Ferré](https://github.com/CatalaHD)
