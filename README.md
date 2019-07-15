@@ -3,6 +3,15 @@ Processing 3D Mod of Daniel Shiffman Coding Challenge #7 - #9
 
 ----------------------
 
+## Prerequisites
+
+Install Processing that is a Java based visual environment.
+
+[Download Processing](https://processing.org/download)
+[See all the functions](https://processing.org/reference)
+
+----------------------
+
 ## Link to the original
 
 ### Coding challenges:
